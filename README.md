@@ -1,4 +1,4 @@
-### Typescript
+# Typescript
 TypeScript 知識管理共筆
 
 ### 加入Slack討論
